@@ -1,0 +1,47 @@
+/* 全局红色系样式 */
+:root {
+  --primary-color: #d32f2f;    /* 主红 */
+  --secondary-color: #b71c1c;  /* 深红 */
+  --light-red: #fef2f2;        /* 浅红（背景） */
+  --text-red: #9f1239;         /* 文字红 */
+}
+
+/* 核心方向卡片红色系 */
+div[style*="border-left: 6px solid #3498db"] {
+  border-left-color: var(--primary-color) !important;
+}
+div[style*="border-left: 6px solid #27ae60"] {
+  border-left-color: #e53e3e !important;  /* 红绿色系替换为红 */
+}
+div[style*="border-left: 6px solid #9b59b6"] {
+  border-left-color: #c53030 !important;  /* 紫红 */
+}
+div[style*="border-left: 6px solid #e67e22"] {
+  border-left-color: #dd2c00 !important;  /* 橙红 */
+}
+
+/* 卡片hover效果增强（红色系） */
+div[style*="transition: transform 0.2s ease"]:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(211, 47, 47, 0.15) !important;
+}
+
+/* 头部横幅红色系背景 */
+div[style*="background: #f8f9fa"] {
+  background: var(--light-red) !important;
+}
+
+/* 标题文字红色系 */
+h2, h3 {
+  color: var(--text-red) !important;
+}
+
+/* 分隔线红色系 */
+hr {
+  border-top: 1px solid var(--light-red) !important;
+}
+
+/* 列表符号红色系 */
+li::marker {
+  color: var(--primary-color) !important;
+}

@@ -1,0 +1,74 @@
+---
+title: "宋文博的个人网站 | 土壤学与空间数据分析"
+---
+
+<!-- 头部横幅：只保留一个主标题，样式优化 -->
+<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px; padding: 24px; background: #f8f9fa; border-radius: 14px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <img src="images/生活照.png" 
+       alt="宋文博的照片" 
+       style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 5px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+  <div style="flex: 1;">
+    # 欢迎来到我的个人网站
+    **土壤学研究生 | 专注空间数据分析与土地资源评价**
+
+    热爱GIS技术与科研，致力于用数据思维解决土壤问题，记录学习与成长轨迹。
+  </div>
+</div>
+
+---
+
+## 📖 个人简介
+我是一名**土壤学专业**的研究生，深耕**耕地质量等级评价、土地适宜性评价、数字土壤制图、土壤志**四大方向，熟练掌握ArcGIS、Python、ENVI等工具，同时具备扎实的科研写作与项目落地能力。
+
+我的个人网站不仅是学习成果的展示窗口，也是技术沉淀与经验分享的平台，希望能和更多土壤学领域的同行交流进步。
+
+---
+
+## 🎯 核心学习方向
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px; margin: 30px 0;">
+  <div style="background: #fff; padding: 24px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); border-left: 6px solid #3498db; transition: transform 0.2s ease;">
+    ### 📊 空间数据分析
+    基于Python/ArcGIS开展空间插值、空间叠加分析、栅格计算，解决土地、生态等领域的空间问题。
+  </div>
+  <div style="background: #fff; padding: 24px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); border-left: 6px solid #27ae60; transition: transform 0.2s ease;">
+    ### 🌱 第三次全国土壤普查成果汇总
+    运用GIS空间分析技术，结合多因子评价模型，开展农业用地、生态用地的适宜性分级与规划。
+  </div>
+  <div style="background: #fff; padding: 24px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); border-left: 6px solid #9b59b6; transition: transform 0.2s ease;">
+    ### 🗺️ 数字土壤制图
+    利用GIS与遥感技术，绘制高精度数字土壤图，实现土壤属性的空间分布可视化与精细化管理。
+  </div>
+  <div style="background: #fff; padding: 24px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); border-left: 6px solid #e67e22; transition: transform 0.2s ease;">
+    ### 🌐 Web可视化
+    基于Quarto、Leaflet等工具，实现空间数据的Web端可视化展示，提升数据成果的传播效率。
+  </div>
+</div>
+
+---
+
+## 🛠️ 常用工具与技术栈
+### 📊 数据分析工具
+- **编程语言**：Python（熟练Pandas/GeoPandas/Matplotlib）、R语言基础
+- **空间分析**：ArcGIS Desktop/Pro、QGIS、ENVI
+- **可视化**：Matplotlib/Seaborn、Quarto、Tableau（入门）
+
+### 🧑‍💻 开发与建站
+- **版本控制**：Git、GitHub
+- **建站工具**：Quarto、VS Code/Positron
+- **前端基础**：HTML/CSS、Markdown
+
+---
+
+## 📚 学习与科研成果
+> 持续更新中... ✨
+- ✅ 完成《土地适宜性评价》《耕地质量等级评价》等核心项目
+- ✅ 完成随州市第三次全国土壤普查成果汇总
+- ✅ 掌握：Python空间分析、Quarto静态网站搭建、Git版本控制
+- 📝 正在撰写：五峰土家族自治县土壤志
+
+---
+
+## 📫 联系方式
+- 📧 邮箱：3239736028@qq.com
+- 💻 GitHub：https://github.com/Swb123-star
+- 🌐 个人网站：BIO-SPRING.top

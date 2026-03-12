@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "宋文博的个人网站 | 土壤学与空间数据分析"
+  navbar:
+    left:
+      - href: index.qmd
+        text: 首页
+      - href: about.qmd
+        text: 关于我
+    # 导航栏红色系（正确属性名）
+    background: "#d32f2f"
+    foreground: white
+    hover: "#b71c1c"
+  page-footer:
+    left: "© 2025 宋文博 | BIO-SPRING.top"
+    # 页脚背景色（正确属性名：background，彻底删掉background-color）
+    background: "#faf0f0"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    highlight-style: github
